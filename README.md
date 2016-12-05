@@ -12,4 +12,5 @@ Redis is an open-source, networked, in-memory, key-value data store with optiona
 - [Source Repository](https://github.com/ind3x/rpi-alpine-redis)
 - [DockerHub](https://registry.hub.docker.com/u/ind3x/rpi-alpine-redis)
 - Dockerfile
-    - [3.2.0, 3.2, latest](https://github.com/ind3x/rpi-alpine-redis/blob/master/Dockerfile) (Alpine Linux 3.4)
+    - [3.2.0, 3.2, latest](https://github.com/ind3x/rpi-alpine-redis/blob/master/Dockerfile) (Based on Alpine Linux 3.4)
+- Forked from [hypriot/rpi-redis Repository](https://github.com/hypriot/rpi-redis)
